@@ -1,0 +1,352 @@
+[
+  {
+    "Name": "1813 - Boleta Digital",
+    "EnrollmentCode": "XCBWHQ53",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (Huawei)"
+  },
+  {
+    "Name": "Concepcion - Boleta Digital",
+    "EnrollmentCode": "WZBNBL97",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Concepción (Huawei)"
+  },
+  {
+    "Name": "DAC - AE - HUAWEI",
+    "EnrollmentCode": "NEWWWG29",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\Huawei"
+  },
+  {
+    "Name": "DAC - Huawei",
+    "EnrollmentCode": "XLRQLU36",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\Huawei"
+  },
+  {
+    "Name": "DAC - RM",
+    "EnrollmentCode": "QLMFXN63",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\RM"
+  },
+  {
+    "Name": "DAC - RM (SL)",
+    "EnrollmentCode": "QSPAPL46",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\SL"
+  },
+  {
+    "Name": "DAC - TABLET",
+    "EnrollmentCode": "BFKXDU47",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\TABLET"
+  },
+  {
+    "Name": "DAC - TABLET ARMOR-PAD (CL)",
+    "EnrollmentCode": "KFQNNH98",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DAC - División Aceros Control\\TABLET ARMOR-PAD\\CL"
+  },
+  {
+    "Name": "DGI - Proyecto TOVE",
+    "EnrollmentCode": "SUFXTW63",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\Proyectos\\TOVE"
+  },
+  {
+    "Name": "DGL - Boleta Digital",
+    "EnrollmentCode": "TDHPKL73",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\RM"
+  },
+  {
+    "Name": "DGL - Boleta Digital Centro Samsung",
+    "EnrollmentCode": "RDNFXD82",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\RM v2"
+  },
+  {
+    "Name": "DGL - RM - Ingreso Laboratorio",
+    "EnrollmentCode": "SLHNDU75",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\RM - Ingreso Laboratorio"
+  },
+  {
+    "Name": "DGL - RM (SL)",
+    "EnrollmentCode": "QUQGAB73",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\RM (SL)"
+  },
+  {
+    "Name": "DGL - RM v2 (SL)",
+    "EnrollmentCode": "TEPDQL29",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\RM v2 (SL)"
+  },
+  {
+    "Name": "DGL - TABLET ARMOR-PAD (CL)",
+    "EnrollmentCode": "NKNTQJ25",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\Ulefone tablet\\CL"
+  },
+  {
+    "Name": "DGL - VIII - Ingreso Laboratorio",
+    "EnrollmentCode": "BAQRFY32",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DGL - División Geotecnia Laboratorio\\VIII - Ingreso Laboratorio"
+  },
+  {
+    "Name": "DHC - Control de Obra",
+    "EnrollmentCode": "AWLMNA95",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Control Obra\\VII - SUR"
+  },
+  {
+    "Name": "DHC - Control de Obra (Santiago)",
+    "EnrollmentCode": "YNBAEM62",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Control Obra\\Santiago"
+  },
+  {
+    "Name": "DHC - Control obra - SL (Samsung)",
+    "EnrollmentCode": "SKMKMX82",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Control Obra\\NORTE\\SL (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Central Norte",
+    "EnrollmentCode": "TDPCTE35",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Concón (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Centro",
+    "EnrollmentCode": "GNWXLM64",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Centro (SL)",
+    "EnrollmentCode": "RGBGQJ39",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (Samsung - SL)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Centro Sur",
+    "EnrollmentCode": "DFGEAB28",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Zona Centro Sur (Huawei)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Centro Sur (Samsung)",
+    "EnrollmentCode": "RTSHHN98",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Zona Centro Sur (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Concepción (LG)",
+    "EnrollmentCode": "FZNVYX59",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Concepción (LG)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Coquimbo",
+    "EnrollmentCode": "YWTZWD93",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Coquimbo\\Coquimbo (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Coquimbo (SL)",
+    "EnrollmentCode": "RSKHKP73",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Coquimbo\\Coquimbo (Samsung - SL)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Norte",
+    "EnrollmentCode": "SKUGDX77",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Zona Norte"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo - Zona Sur",
+    "EnrollmentCode": "KAFKTX93",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Concepción (Samsung)"
+  },
+  {
+    "Name": "DHC - Hormigones Muestreo (Nokia)",
+    "EnrollmentCode": "FRRGNC27",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (Nokia)"
+  },
+  {
+    "Name": "DHC - NORTE (CL)",
+    "EnrollmentCode": "XZXVGL26",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Control Obra\\NORTE\\CL (NOKIA)"
+  },
+  {
+    "Name": "DHC - NORTE (SL)",
+    "EnrollmentCode": "CZDVZS44",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Control Obra\\NORTE\\SL (NOKIA)"
+  },
+  {
+    "Name": "DHC - PP test (Huawei)",
+    "EnrollmentCode": "RJSTDL79",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\Z_PRUEBAS\\PP (HUAWEI )"
+  },
+  {
+    "Name": "DHC - PP test (Samsung)",
+    "EnrollmentCode": "SVTDQE25",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\Z_PRUEBAS\\PP (SAMSUNG)"
+  },
+  {
+    "Name": "DHC (Nokia) - CONCON",
+    "EnrollmentCode": "AZKKGK29",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Concón  (Nokia)"
+  },
+  {
+    "Name": "DHI - RM",
+    "EnrollmentCode": "WMMMTL22",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHI - División Hormigones Ingeniería\\RM"
+  },
+  {
+    "Name": "DHI - RM (SL)",
+    "EnrollmentCode": "PDRQPL74",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHI - División Hormigones Ingeniería\\RM (SL)"
+  },
+  {
+    "Name": "DPR (CL) - MantosVerdes",
+    "EnrollmentCode": "ZKMLNE36",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DPR\\MantosVerdes\\CL"
+  },
+  {
+    "Name": "DPR (SL) - MantosVerdes",
+    "EnrollmentCode": "UAKTNG64",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DPR\\MantosVerdes\\SL"
+  },
+  {
+    "Name": "DTC - RM",
+    "EnrollmentCode": "MXVCUY34",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DTC - División Tecnología Construcción\\RM"
+  },
+  {
+    "Name": "Marcaje Facial v2",
+    "EnrollmentCode": "MDYXHW54",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\RRHH\\Reloj Control v2"
+  },
+  {
+    "Name": "Reloj control QR (SL)",
+    "EnrollmentCode": "UQCWZB36",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\RRHH\\Reloj control QR (SL)"
+  },
+  {
+    "Name": "RM - Boleta Digital - Samsung",
+    "EnrollmentCode": "XKUVZR98",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (SMG EnrAnt)"
+  },
+  {
+    "Name": "RM - Boleta Digital Smsng",
+    "EnrollmentCode": "LBQCSM54",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (SMG EnrAnt)"
+  },
+  {
+    "Name": "RRHH - Reloj Control RF",
+    "EnrollmentCode": "JYPTGX49",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\RRHH\\Reloj Control Face Recognition"
+  },
+  {
+    "Name": "SDG - Planta Fisica",
+    "EnrollmentCode": "WRNJGH72",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\Planta Física"
+  },
+  {
+    "Name": "SDG Acceso Control",
+    "EnrollmentCode": "QJPUDE37",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\Control ingreso C19"
+  },
+  {
+    "Name": "SDG Acceso Control_2",
+    "EnrollmentCode": "ZELGKP78",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\Control ingreso C19"
+  },
+  {
+    "Name": "SDG Reloj control Active3",
+    "EnrollmentCode": "MPAEFR74",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\SDG - Subdirección de Gestión\\RRHH\\Reloj control Active3"
+  },
+  {
+    "Name": "SOTI TEST",
+    "EnrollmentCode": "SSHAGV25",
+    "Status": "Enable",
+    "EnrolledDeviceCount": 0,
+    "TargetDeviceGroupPath": "\\\\IDIEM\\DHC - División Hormigones Control\\Hormigones Muestreo\\Santiago (Samsung)"
+  }
+]
